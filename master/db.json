@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Tour de francia",
+      "desc": "Bike´s Time ha logrado llegar al mayor evento de ciclistas en el mundo, pues en el 2018 fue uno de los patrocionadores oficiales de tan prestigioso evento",
+      "img": "https://cdn-cyclingtips.pressidium.com/wp-content/uploads/2018/07/20180729TDF2021.jpg"
+    },
+     {
+      "id": 2,
+      "title": "VESTA CHALLENGE",
+      "desc": "Seremos este 2019 el principal organizador de una de las mejores competencias de ciclismo de Querétaro. Gran Fondo 102k + medio fondo 52k",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=jpg/path/s637692ae569edd0c/image/iea92084c4654175e/version/1558383949/image.jpg"
+    },
+     {
+      "id": 3,
+      "title": "L' ETAPE CIUDAD DE MEXICO BY LE TOUR DE FRANCE",
+      "desc": "Bike´s Time ha logrado llegar al mayor evento de ciclistas en el mundo,en este 2019 fue uno de los patrocionadores oficiales de tan prestigioso evento",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/none/path/s637692ae569edd0c/image/i239d392456c9df4b/version/1559166424/image.jpg"
+    },
+     {
+      "id": 4,
+      "title": "UCI SAN LUIS POTOSÍ",
+      "desc": "Sin duda alguna el 2019 será el mejor año para esta carrera, pues Bike's Time participará como patrocinador oficial por primera vez",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/dimension=359x1024:format=jpg/path/s637692ae569edd0c/image/i7499ec1b1473d982/version/1554097612/image.jpg"
+    },
+     {
+      "id": 5,
+      "title": "LA ROMPE PIERNAS QUERÉTARO",
+      "desc": "Bike´s Time en todo el tiempo de vida de este evento en Jalpan Querétaro, sigue y seguirá presente. 70k + 133k ",
+      "img": "https://image.jimcdn.com/app/cms/image/transf/dimension=395x1024:format=jpg/path/s637692ae569edd0c/image/ifadb19c52e6f926e/version/1552966616/image.jpg"
+    },
+    
+  ]
+}
